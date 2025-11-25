@@ -1,0 +1,1 @@
+# aiikya-figma-plugin
